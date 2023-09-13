@@ -1,1 +1,1 @@
-directory for functions_nested_loops in c
+learning functions_nested_loops
